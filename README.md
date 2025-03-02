@@ -12,10 +12,6 @@
 - Developing predictive models to optimize business processes and improve decision-making.
 - Automating data pipelines for efficient data processing and analysis.
 
-📚 **Education:**
-- **Master of Data Science and Analytics (MDSA)**, University of Calgary
-- **Bachelor of Engineering (BE) in Mechanical Engineering**, Mepco Schlenk Engineering College
-
 🌱 **Looking to Collaborate On:**
 - Data analysis and visualization projects
 - Machine learning and AI research
