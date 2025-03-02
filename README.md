@@ -3,11 +3,6 @@
 💡 **Passionate about turning data into actionable insights and driving business success. With over 8 years of experience in software and quality engineering, I bring a strong foundation in machine learning, business intelligence, and data-driven strategy formulation.**  
 
 🔧 **Skills:**
-- **Programming Languages**: ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white), ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white), ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=sql&logoColor=white) (MySQL, Oracle SQL)
-- **Data Visualization**: ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
-- **Testing & Automation**: ![Automation](https://img.shields.io/badge/-Automation-FF6F00?style=flat-square&logo=automated-qa&logoColor=white) (ETL Testing, Guidewire Functional and Automation Testing)
-- **AI & Machine Learning**: ![AI](https://img.shields.io/badge/-AI-007ACC?style=flat-square&logo=artificial-intelligence&logoColor=white), ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-2C2D72?style=flat-square&logo=ml&logoColor=white)
-
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> 
