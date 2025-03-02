@@ -19,15 +19,17 @@
 
 
 🔭 **Current Projects:**
-- Developing predictive models to optimize business processes and improve decision-making.
-- Automating data pipelines for efficient data processing and analysis.
+**- Developing predictive models to optimize business processes and improve decision-making.**
+**- Automating data pipelines for efficient data processing and analysis.**
 
 🌱 **Looking to Collaborate On:**
-- Data analysis and visualization projects
-- Machine learning and AI research
-- Automation and ETL testing initiatives
+**- Data analysis and visualization projects**
+**- Machine learning and AI research**
+**- Automation and ETL testing initiatives**
 
 💬 **Let's Connect:**
-- [LinkedIn](https://www.linkedin.com/in/venkateshbalus/)
-- [GitHub](https://github.com/venkateshsoundar)
-- [Email](mailto:venkimech1992@gmail.com)
+<p align="left">
+  <a href="https://www.linkedin.com/in/venkateshbalus/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="venkatesh-balus" height="30" width="40" /></a>
+  <a href="https://github.com/venkateshsoundar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github-alt.svg" alt="venkatesh-soundar" height="30" width="40" /></a>
+  <a href="mailto:venkimech1992@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/email-alt.svg" alt="venkatesh-email" height="30" width="40" /></a>
+</p>
