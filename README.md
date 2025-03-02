@@ -31,5 +31,4 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/venkateshbalus/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="venkateshbalus" height="30" width="40" /></a>
   <a href="https://github.com/venkateshsoundar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="venkateshsoundar" height="30" width="40" /></a>
-  <a href="mailto:venkimech1992@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="venkimech1992" height="30" width="40" /></a>
 </p>
