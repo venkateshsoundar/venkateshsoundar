@@ -1,9 +1,5 @@
 ## Hi there, I'm Venkatesh Balu! 👋
 
-🎓 **Master of Data Science and Analytics (MDSA) | University of Calgary**  
-🔍 **Seeking Summer 2025 Opportunities**  
-💼 **Data Analyst | Business Analyst | Quality Engineer**  
-
 💡 **Passionate about turning data into actionable insights and driving business success. With over 8 years of experience in software and quality engineering, I bring a strong foundation in machine learning, business intelligence, and data-driven strategy formulation.**  
 
 🔧 **Skills:**
