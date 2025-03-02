@@ -1,4 +1,4 @@
-## Hi there, I'm Venkatesh Balu! 👋
+## Hi there, I'm Venkatesh! 👋
 
 💡 **Passionate about turning data into actionable insights and driving business success. With over 8 years of experience in software and quality engineering, I bring a strong foundation in machine learning, business intelligence, and data-driven strategy formulation.**  
 
