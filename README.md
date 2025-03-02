@@ -3,6 +3,7 @@
 💡 **Passionate about turning data into actionable insights and driving business success. With over 8 years of experience in software and quality engineering, I bring a strong foundation in machine learning, business intelligence, and data-driven strategy formulation.**  
 
 🔧 **Skills:**
+
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> 
@@ -17,15 +18,14 @@
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/> </a>
 </p>
 
-
 🔭 **Current Projects:**
-**Developing predictive models to optimize business processes and improve decision-making.**
-**Automating data pipelines for efficient data processing and analysis.**
+- **Developing predictive models to optimize business processes and improve decision-making.**
+- **Automating data pipelines for efficient data processing and analysis.**
 
 🌱 **Looking to Collaborate On:**
-**Data analysis and visualization projects**
-**Machine learning and AI research**
-**Automation and ETL testing initiatives**
+- **Data analysis and visualization projects**
+- **Machine learning and AI research**
+- **Automation and ETL testing initiatives**
 
 💬 **Let's Connect:**
 <p align="left">
