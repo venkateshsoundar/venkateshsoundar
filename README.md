@@ -4,7 +4,7 @@
 🔍 **Seeking Summer 2025 Opportunities**  
 💼 **Data Analyst | Business Analyst | Quality Engineer**  
 
-💡 Passionate about turning data into actionable insights and driving business success. With over 8 years of experience in software and quality engineering, I bring a strong foundation in machine learning, business intelligence, and data-driven strategy formulation.  
+💡 **Passionate about turning data into actionable insights and driving business success. With over 8 years of experience in software and quality engineering, I bring a strong foundation in machine learning, business intelligence, and data-driven strategy formulation.**  
 
 🔧 **Skills:**
 - **Programming Languages**: ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white), ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white), ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=sql&logoColor=white)
